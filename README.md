@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aaron Jude Paras an aspiring Fullstack Developer.
 - 👀 I’m interested in  learning software development.
-- 🌱 I’m currently learning C, Flutter.
+- 🌱 I’m currently learning C, Python and Web development
 - 💞️ I’m looking to collaborate on projects.
 - 📫 How to reach me ...
 - email : aaronJPBV@gmail.com or aaronbronte@yahoo.com
